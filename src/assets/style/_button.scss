@@ -1,0 +1,25 @@
+button {
+  outline: none;
+  border: 0;
+  cursor: pointer;
+  border-radius: 8px;
+  &.button {
+    background-color: #8194a5;
+    height: 40px;
+    color: #fff;
+    font-weight: bold;
+    min-width: 98px;
+  }
+  &.button-primary {
+    background-color: #006a9b;
+  }
+  &.button-warning {
+    background-color: #e4a237;
+  }
+  &.button-danger {
+    background-color: #ce4b4b;
+  }
+  &:disabled {
+    opacity: 0.5;
+  }
+}

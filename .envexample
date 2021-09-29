@@ -1,0 +1,4 @@
+VUE_APP_BASE_URL: https://api-dev.minhviet.org
+VUE_APP_BASE_URL_CHAT: https://chatplatform.minhviet.org
+DOMAIN_SOCKET_CHAT: ws://54.151.229.198:3003/websocket
+DOMAIN_SOCKET: https://socket-dev.minhviet.org

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_20487" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2760" d="M0 0H36V36H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <circle id="Ellipse_867" cx="32" cy="32" r="32" fill="rgba(222,229,235,0.5)"/>
+    <g id="ic_Apps" transform="translate(14 14)">
+        <g id="Mask_Group_95" clip-path="url(#clip-path)">
+            <g id="_48px_ctrl-left" transform="translate(13.357 8)">
+                <path id="Path_2237" d="M6.229 20.284l-1.4-1.016 6.534-8.984L4.833 1.3 6.228.284l6.9 9.492a.864.864 0 0 1 0 1.016z" class="cls-1" transform="translate(-4.833 -.284)"/>
+            </g>
+        </g>
+    </g>
+</svg>

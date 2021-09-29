@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4" height="18">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#afbbc6;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="more-horizontal" transform="rotate(90 8.5 5.5)">
+        <circle id="Ellipse_122" data-name="Ellipse 122" class="cls-1" cx="1" cy="1" r="1" transform="translate(11 11)"/>
+        <circle id="Ellipse_123" data-name="Ellipse 123" class="cls-1" cx="1" cy="1" r="1" transform="translate(18 11)"/>
+        <circle id="Ellipse_124" data-name="Ellipse 124" class="cls-1" cx="1" cy="1" r="1" transform="translate(4 11)"/>
+    </g>
+</svg>
